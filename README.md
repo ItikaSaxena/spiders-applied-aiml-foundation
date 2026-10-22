@@ -1,3 +1,17 @@
+# my mini project 
+## Mini Project: PahadRakshak AI
+
+**PahadRakshak AI** is an AI-based landslide and flood risk monitoring system designed for mountainous regions like Uttarakhand. The project aims to assess potential disaster risks using factors such as rainfall, slope conditions, river water levels, and historical disaster data.
+
+The project will begin with Python fundamentals and data analysis, with plans to expand towards machine learning-based risk prediction, interactive dashboards, and early warning alerts.
+
+**Tech Stack:** Python, Pandas, Machine Learning, Weather Data APIs, Streamlit
+
+**Goal:** To support disaster preparedness and help communities identify potential landslide and flood risks earlier.
+
+
+
+
 # SPIDERS Applied AI/ML Foundation
 
 ## About This Repository
