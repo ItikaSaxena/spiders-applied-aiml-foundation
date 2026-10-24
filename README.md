@@ -1,13 +1,13 @@
 # my mini project 
-## Mini Project: PahadRakshak AI
+## Mini Project: AquaRakshak AI
 
-**PahadRakshak AI** is an AI-based landslide and flood risk monitoring system designed for mountainous regions like Uttarakhand. The project aims to assess potential disaster risks using factors such as rainfall, slope conditions, river water levels, and historical disaster data.
+**AquaRakshak AI** is an AI-powered water management system designed to identify potential water shortage risks and recurring water supply problems. The project aims to analyze factors such as historical water supply data, rainfall, temperature, water demand, and previous shortage records.
 
-The project will begin with Python fundamentals and data analysis, with plans to expand towards machine learning-based risk prediction, interactive dashboards, and early warning alerts.
+The project will begin with Python fundamentals and data analysis, with plans to expand towards machine learning-based risk prediction, anomaly detection, interactive dashboards, and smart alerts.
 
-**Tech Stack:** Python, Pandas, Machine Learning, Weather Data APIs, Streamlit
+**Tech Stack:** Python, Pandas, Scikit-learn, Machine Learning, Geospatial Analysis, Flask/Streamlit
 
-**Goal:** To support disaster preparedness and help communities identify potential landslide and flood risks earlier.
+**Goal:** To support smarter water management and help communities identify potential water shortages earlier through data-driven insights.
 
 
 
